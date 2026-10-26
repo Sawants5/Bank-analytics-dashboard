@@ -1,4 +1,3 @@
-# Bank-analytics-dashboard
 # Bank Analytics Dashboard
 
 ## Project Overview
